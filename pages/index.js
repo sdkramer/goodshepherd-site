@@ -10,7 +10,12 @@ export default function Home() {
         <meta name='keywords' content='anglican, good shepherd' />
       </Head>
     
-      <h1 className="text-green-500">Welcome to Anglican Church of the Good Shepherd</h1>
+      <main>
+        <img />
+        <section>
+          <h1>Welcome to Anglican Church of Good Shepherd</h1>
+        </section>
+      </main>
     </div>
   )
 }
